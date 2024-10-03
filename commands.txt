@@ -10,3 +10,4 @@ git add -A                                [add all untracked files to staging ar
 
 git commit -m "commit msg"                  [to move staged files to local repository]
 
+git branch
