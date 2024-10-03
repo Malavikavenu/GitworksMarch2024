@@ -6,7 +6,7 @@ git init                                    [to initialize an empty git reposito
 
 git status                                  [to list untracked files]
 
-git add -add                                [add all untracked files to staging area]
+git add -A                                [add all untracked files to staging area]
 
 git commit -m "commit msg"                  [to move staged files to local repository]
 
